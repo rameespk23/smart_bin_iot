@@ -1,0 +1,2 @@
+# smart_bin_iot
+NIRMALYA- “NIRMALYA “ is a motivational trash disposal system which motivates the people to use the waste bin more frequently rather than littering it elsewhere.Our project has two parts.one is the motivational part , lucky winner will be selected from the users who use “NIRMALYA ”;Other is the waste management part that is collecting the waste whenever the wastebin is full,when it is completely filled the authorities will receive a message showing the location and status of the trash-bin.
